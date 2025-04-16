@@ -3,14 +3,14 @@
 
 **FrAIgrance** is an AI-powered platform that generates immersive, emotion-driven stories based on a fragrance's description and its brand identity. Designed to capture the soul of a scent, FrAIgrance transforms fragrance concepts into rich narratives that resonate with feeling and creativity.
 
-![error image](https://github.com/AlexandruCrisan/Youbify/blob/master/brosura_res/Home.PNG?raw=true) 
+![error image](https://github.com/AlexandruCrisan/FrAIgrance/blob/master/main.PNG?raw=true) 
 
 ---
 
 ## 🔗 Repositories
 
-- 🌐 **Frontend (React + TailwindCSS + DaisyUI):** [FrAIgrance Frontend](https://github.com/your-username/fraagrance-frontend)
-- ⚙️ **Backend (Django + PostgreSQL):** [FrAIgrance Backend](https://github.com/your-username/fraagrance-backend)
+- 🌐 **Frontend (React + TailwindCSS + DaisyUI):** [FrAIgrance Frontend](https://github.com/AlexandruCrisan/FrAIgrance-fe)
+- ⚙️ **Backend (Django + PostgreSQL):** [FrAIgrance Backend](https://github.com/AlexandruCrisan/FrAIgrance-be)
 
 ---
 
@@ -65,7 +65,9 @@ Click the link above to watch FrAIgrance in action!
 
 ## 📸 Screenshots
 
-_Add some screenshots of the homepage, login flow, and story results here for extra polish._
+![error image](https://github.com/AlexandruCrisan/FrAIgrance/blob/master/p1.PNG?raw=true) 
+![error image](https://github.com/AlexandruCrisan/FrAIgrance/blob/master/p3.PNG?raw=true) 
+![error image](https://github.com/AlexandruCrisan/FrAIgrance/blob/master/p2.PNG?raw=true) 
 
 ---
 
@@ -75,4 +77,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Made with 💐 by [Your Name](https://github.com/your-username)
+> Made with 💐 by [Crisan Alexandru](https://github.com/AlexandruCrisan)
